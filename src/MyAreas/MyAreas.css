@@ -1,0 +1,59 @@
+:root {
+
+  --ligth-green: #183334;
+
+  --dark-green: #122526;
+
+  --btn-green: #22a663;
+
+  --btn-green-hover: #24b06a;
+
+  --title-color: #c7a659;
+
+  --title-shadow: #4f4120d9;
+
+  --header-color: #b30000;
+
+  --areas-card: #8686866d;
+
+  --h1-card: #c7a6591c;
+
+  --box-shadow: #0000008c;
+
+  --background-color: #000000a6;
+}
+
+.MyAreas {
+  background-color: var(--ligth-green);
+  min-height: 100vh;
+}
+
+.h1_areas {
+  font-size: 2.5em;
+  padding: 70px 0;
+  text-align: center;
+}
+
+@media ( min-width : 481px ) {
+
+  .h1_areas {
+    font-size: 3em;
+  }
+}
+
+@media ( min-width : 769px ) {
+
+  .h1_areas {
+    font-size: 3.5em;
+  }
+}
+
+@media ( min-width : 1025px ) {
+
+  .h1_areas {
+    font-size: 4.5em;
+  }
+}
+
+/* @media ( min-width : 1201px ) {
+} */

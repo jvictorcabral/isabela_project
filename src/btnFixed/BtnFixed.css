@@ -1,0 +1,47 @@
+:root {
+
+  --ligth-green: #183334;
+
+  --dark-green: #122526;
+
+  --btn-green: #22a663;
+
+  --btn-green-hover: #24b06a;
+
+  --title-color: #c7a659;
+
+  --title-shadow: #4f4120d9;
+
+  --header-color: #b30000;
+
+  --areas-card: #8686866d;
+
+  --h1-card: #c7a6591c;
+
+  --box-shadow: #0000008c;
+
+  --background-color: #000000a6;
+}
+
+.btn_fixed {
+  background-color: var(--btn-green);
+  border-radius: 50px;
+  bottom: 25px;
+  height: 50px;
+  padding: 10px;
+  position: fixed;
+  right: 25px;
+  width: 50px;
+  z-index: 1;
+}
+
+.btn_fixed:hover {
+  background-color: var(--btn-green-hover);
+  box-shadow: 0 0 12px 3px var(--box-shadow);
+
+}
+
+.btn_imgFixed {
+  height: 30px;
+  width: 30px;
+}
