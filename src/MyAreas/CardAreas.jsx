@@ -8,8 +8,8 @@ function CardAreas() {
       <h1 className="h1_card">{ area.nameArea }</h1>
       <ul className="ul_card">
         {
-          area.ulArea.map((liArea) => (
-            <li key={liArea.id}>{ liArea }</li>
+          area.ulArea.map((liArea, id) => (
+            <li key={id}>{ liArea }</li>
           ))
         }
       </ul>
