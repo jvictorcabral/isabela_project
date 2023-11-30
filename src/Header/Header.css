@@ -28,7 +28,7 @@
   background-color: var(--header-color);
   display: flex;
   flex-direction: row;
-  font-size: 0.62em;
+  font-size: 0.65em;
   font-weight: 900;
   justify-content: center;
   padding: 12px;
@@ -52,6 +52,13 @@
 .btn_emergency:hover {
   background-color: var(--btn-green-hover);
   box-shadow: 0 0 12px 3px var(--box-shadow);
+}
+
+@media ( min-width : 390px ) {
+  .header {
+    font-size: 0.8em;
+  }
+
 }
 
 @media ( min-width : 481px ) {
