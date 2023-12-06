@@ -29,7 +29,7 @@ footer {
   display: flex;
   flex-direction: column;
   height: 30vh;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .section_footer {

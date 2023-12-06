@@ -7,13 +7,18 @@ function Home() {
       <h1
         className="home_title"
       >
-        Isabela Emerick
+        Precisa de um
+      </h1>
+      <h1
+        className="home_title second-title_line"
+      >
+        advogado criminalista
       </h1>
 
       <h2
         className="home_subtitle"
       >
-        Advogada Criminalista
+        Atendimento para todo o Brasil
       </h2>
     </div>
   );

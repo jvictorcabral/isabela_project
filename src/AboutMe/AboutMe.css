@@ -107,6 +107,10 @@
     box-shadow: 0 0 12px 3px var(--box-shadow);
   }
 
+  .aboutMe_p {
+    font-size: 1.4em;
+  }
+
   .aspas_aboutMe {
     width: 60px;
   }

@@ -1,6 +1,6 @@
 import React from 'react';
 import './AboutMe.css';
-import imgAboutMe from '../images/isabela_draw.png';
+import imgAboutMe from '../images/isabela_image.jpeg';
 import firstAspas from '../images/1aspas.png';
 import secondAspas from '../images/2aspas.png';
 
@@ -9,7 +9,7 @@ function AboutMe() {
     <div className="aboutMe">
       <img
         src={imgAboutMe}
-        alt="foto da Isabela"
+        alt="Isabela Emerick"
         className="img_aboutMe"
       />
       <div className="aboutMe_div">
