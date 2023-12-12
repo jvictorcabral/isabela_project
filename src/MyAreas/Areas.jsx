@@ -43,7 +43,7 @@ const Areas = [
     nameArea: 'AudiÊncias',
     ulArea: [
       'Preliminar',
-      'custódia',
+      'Custódia',
       'Instrução e julgamento',
       'Sustentação Oral nos Tribunais',
       'Admonitória',

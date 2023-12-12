@@ -18,7 +18,7 @@ function Home() {
       <h2
         className="home_subtitle"
       >
-        Atendimento para todo o Brasil
+        Atendimento em todo o Brasil
       </h2>
     </div>
   );

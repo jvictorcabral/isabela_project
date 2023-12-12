@@ -14,6 +14,7 @@ function AboutMe() {
       />
       <div className="aboutMe_div">
         <h1 className="h1_aboutMe">Isabela Emerick</h1>
+        <p className='subtitle_aboutMe'>Advogada criminalista</p>
         <div className="aboutMe_content">
           <img src={firstAspas} alt="aspas" className="aspas_aboutMe" />
           <p className="aboutMe_p">

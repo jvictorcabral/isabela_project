@@ -10,7 +10,7 @@
 
   --title-color: #c7a659;
 
-  --second-title-color: rgb(247, 231, 202);
+  --second-title-color: #f7e7ca;
 
   --title-shadow: #4f4120e6;
 
@@ -22,7 +22,7 @@
 
   --box-shadow: #0000008c;
 
-  --background-color: #000000a6;
+  --background-color: #00000080;
 }
 
 .home:before {
