@@ -42,6 +42,7 @@
   align-items: center;
   display: flex;
   flex-direction: column;
+  margin-bottom: 70px;
   width: 80vw;
 }
 
@@ -90,12 +91,9 @@
   }
 }
 
-@media ( min-width : 481px ) {
+/* @media ( min-width : 481px ) {
 
-  .aboutMe_p {
-    font-size: 1.2em;
-  }
-}
+} */
 
 @media ( min-width : 769px ) {
 
@@ -104,13 +102,13 @@
   }
 
   .img_aboutMe {
-    max-height: 60vh;
-    max-width: 35vw;
+    max-height: 65vh;
+    max-width: 45vw;
     padding: 0;
   }
 
   .aboutMe_div {
-    max-width: 45vw;
+    max-width: 40vw;
   }
 
   .h1_aboutMe {
@@ -131,7 +129,7 @@
   }
 
   .aboutMe_p {
-    font-size: 1.4em;
+    font-size: 1.2em;
   }
 
   .aspas_aboutMe {
@@ -154,9 +152,15 @@
     top: 30px;
   }
 
-  /* .subtitle_aboutMe {
-    font-size: 1em;
-  } */
+  .subtitle_aboutMe {
+    margin-bottom: 35px;
+  }
+
+  .img_aboutMe {
+    max-height: 65vh;
+    max-width: 40vw;
+    padding: 0;
+  }
 }
 
 /* @media ( min-width : 1201px ) {
