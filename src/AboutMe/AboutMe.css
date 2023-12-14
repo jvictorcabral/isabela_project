@@ -42,7 +42,6 @@
   align-items: center;
   display: flex;
   flex-direction: column;
-  margin-bottom: 70px;
   width: 80vw;
 }
 
@@ -108,6 +107,7 @@
   }
 
   .aboutMe_div {
+    margin-bottom: 70px;
     max-width: 40vw;
   }
 
