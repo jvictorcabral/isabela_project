@@ -9,8 +9,7 @@
 			"declarations"
 		],
 		"order/properties-order": [
-			"width",
-			"height"
+			
 		],
     "at-rule-empty-line-before": "always",
     "at-rule-name-case": "lower",
